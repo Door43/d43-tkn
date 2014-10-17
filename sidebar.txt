@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tkn:home|Door43 (tkn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tkn|d43-tkn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tkn/archive/master.zip|d43-tkn.zip]]
+
+**Recent Changes**
+{{changes>ns = tkn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tkn|Ethnologue data]]
+
